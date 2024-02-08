@@ -34,6 +34,10 @@ composer update
 yii migrate
 ~~~
 
+Чтобы авторизоваться в бекенде необходимо завести пользователя согласно инструкции
+https://github.com/yiisoft/yii2-app-advanced/blob/master/docs/guide/start-installation.md
+Раздел Preparing application. Шаги 6 - 10.
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
